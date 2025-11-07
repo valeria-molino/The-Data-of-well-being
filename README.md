@@ -5,6 +5,8 @@ Exploratory Data Analysis on global well-being using health, education, and econ
 
 *Exploring how health, education, and economy shape global well-being in 2023.*
 
+![World Map](https://github.com/valeria-molino/The-Data-of-well-being/blob/main/plots/clusters_map.png)
+
 ---
 
 ## 🌍 Overview
