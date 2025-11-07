@@ -55,6 +55,22 @@ The dataset includes over 200 countries and indicators on:
 - `Python`  
 - `pandas`, `numpy`  
 - `matplotlib`, `seaborn`, `plotly` 
-- `scikit-learn`  
+- `scikit-learn`
+
+---
+
+## 📈 Results Summary
+
+The exploratory analysis revealed several global trends:
+
+- **Economic strength and well-being are correlated**, but not perfectly — countries with moderate GDP sometimes achieve high life expectancy and education levels.
+
+- **Education and health indicators** show strong positive relationships (countries with higher tertiary enrollment also have longer life expectancy).
+
+- **CO₂ emissions** tend to increase with GDP, highlighting the trade-off between development and sustainability.
+
+- **Urbanization** generally correlates with improved access to healthcare and education, but also higher emissions.
+
+Visualizations such as bubble plots and pairwise correlations emphasized how health and education balance economic growth across different regions.
 
 
