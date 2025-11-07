@@ -73,4 +73,6 @@ The exploratory analysis revealed several global trends:
 
 Visualizations such as bubble plots and pairwise correlations emphasized how health and education balance economic growth across different regions.
 
+![Bubble Plot](https://github.com/valeria-molino/The-Data-of-well-being/blob/main/plots/bubble_plot.png)
+
 
