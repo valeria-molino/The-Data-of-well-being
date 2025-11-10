@@ -75,5 +75,7 @@ Visualizations such as bubble plots and pairwise correlations emphasized how hea
 
 ![Bubble Plot](https://github.com/valeria-molino/The-Data-of-well-being/blob/main/plots/bubble_plot.png)
 
+
 These observations are consistent with an unsupervised clustering method.
+
 ![World Map](https://github.com/valeria-molino/The-Data-of-well-being/blob/main/plots/clusters.png)
